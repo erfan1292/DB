@@ -1,4 +1,3 @@
-
 local function run(msg, matches)
     if not permissions(msg.from.id, msg.to.id, "settings") then
         local hash = 'links:'..msg.to.id
