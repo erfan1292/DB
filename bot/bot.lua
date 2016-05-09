@@ -243,6 +243,7 @@ function create_config( )
     "plugins",
     "rules",
     "settings",
+    "spam",
     "version",
     },
   enabled_lang = {
