@@ -237,6 +237,7 @@ function create_config( )
     "commands",
     "export_gban",
     "giverank",
+    "badword",
     "id",
     "links",
     "moderation",
